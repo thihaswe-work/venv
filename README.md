@@ -88,9 +88,11 @@ db.sqlite3
 
 ## someone want to clone
 
-git clone <repo>
-cd myproject
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python manage.py runserver
+<ul>
+<li> git clone <repo></li>
+<li> cd myproject</li>
+<li> python -m venv venv</li>
+<li> source venv/bin/activate</li>
+<li> pip install -r requirements.txt</li>
+<li> python manage.py runserver</li>
+</ul>
